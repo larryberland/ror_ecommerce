@@ -24,7 +24,6 @@ solr/*
 public/assets/**/*
 public/assets/*
 coverage/*
-Gemfile.lock
 config/config.yml
 config/database.yml
 config/amazons3.yml
