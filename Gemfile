@@ -9,7 +9,7 @@ gem 'bluecloth',     '~> 2.1.0'
 gem 'cancan', '~> 1.4.1'
 gem 'compass', "~> 0.11.5"
 # gem 'compass_twitter_bootstrap'
-#  gem 'dalli', '~> 1.0.2'
+gem 'dalli'
 
 gem "friendly_id", "~> 3.3"
 gem 'haml',  ">= 3.0.13"#, ">= 3.0.4"#, "2.2.21"#,
@@ -17,7 +17,7 @@ gem "jquery-rails"
 
 #gem 'memcache-client', '~> 1.8.5'
 #gem 'mercury-rails', git: 'https://github.com/jejacks0n/mercury.git', ref: '38df02f55e55b1656581b893b14a6e3e006f9b78'
-gem 'mysql2', '~> 0.3.10'
+gem 'pg'
 
 gem 'nested_set', '~> 1.6.3'
 gem "nifty-generators", :git => 'git://github.com/drhenner/nifty-generators.git'
@@ -28,7 +28,7 @@ gem 'prawn', '~> 0.12.0'
 gem 'rails3-generators', '~> 0.17.0'
 gem 'rmagick',    :require => 'RMagick'
 
-gem 'rake', '= 0.9.2'
+gem 'rake', '>= 0.9.2'
 gem 'ssl_requirement'
 gem 'state_machine', '~> 1.0.1'
 #gem 'sunspot_solr'

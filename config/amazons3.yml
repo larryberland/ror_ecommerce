@@ -1,0 +1,11 @@
+development:
+  :access_key_id: 'zdaAKIAJ6R5XBYHGO2N77YA'
+  :secret_access_key: 'abcTwWDtdNPIBIT/fxKJ0MknDeQg7/1y3FGJbEN9XiD'
+
+test:
+  :access_key_id: 'zzAKIAJ6R5XBYHGO2N77YA'
+  :secret_access_key: 'z1TwWDtdNPIBIT/fxKJ0MknDeQg7/1y3FGJbEN9XiD'
+
+production:
+  :access_key_id: 'a1AKIAJ6R5XBYHGO2N77YA'
+  :secret_access_key: 'b1TwWDtdNPIBIT/fxKJ0MknDeQg7/1y3FGJbEN9XiD'
